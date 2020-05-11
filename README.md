@@ -1,4 +1,4 @@
-# CSCI 4237 - Project 2 - BYOI
+# SongWord
 SongWord - It's an app that finds songs for the words you search
 
 
