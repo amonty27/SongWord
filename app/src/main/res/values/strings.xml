@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SongWord</string>
+    <string name="email">Email</string>
+    <string name="search">Search Word</string>
+    <string name="searchButton">Search</string>
+    <string name="loginButton">Login</string>
+    <string name="signUpButton">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="holdtext">word</string>
+    <string name="holdtext2">definition</string>
+    <string name="artist">artist</string>
+    <string name="song">song</string>
+    <string name="loggedin">Logged in as user:</string>
+    <string name="signedin">Signed in as</string>
+    <string name="invalid">Failed to sign in:</string>
+    <string name="invalidPass">Passwords do not match</string>
+    <string name="success">Registered successfully as</string>
+    <string name="failed">Failed to register:</string>
+    <string name="stay">Remember Login?</string>
+
+</resources>

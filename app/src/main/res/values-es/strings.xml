@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Palabra de canción</string>
+    <string name="email">correo electrónico</string>
+    <string name="search">Buscar palabra</string>
+    <string name="searchButton">Buscar</string>
+    <string name="loginButton">Iniciar Sesión</string>
+    <string name="signUpButton">Regístrate</string>
+    <string name="password">Contraseña</string>
+    <string name="holdtext">palabra</string>
+    <string name="holdtext2">definición</string>
+    <string name="artist">artista</string>
+    <string name="song">canción</string>
+    <string name="loggedin">Iniciado sesión como usuario:</string>
+    <string name="signedin">Registrado como</string>
+    <string name="invalid">Error al iniciar sesión:</string>
+    <string name="invalidPass">Las contraseñas no coinciden</string>
+    <string name="success">Registrado con éxito como</string>
+    <string name="failed">Fallo el registro:</string>
+    <string name="stay">¿Recuerdas iniciar sesión?</string>
+</resources>

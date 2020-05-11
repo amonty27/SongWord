@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "60296209458",
+    "firebase_url": "https://wordsong-99bc9.firebaseio.com",
+    "project_id": "wordsong-99bc9",
+    "storage_bucket": "wordsong-99bc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60296209458:android:d85853addf1155ccf0c82b",
+        "android_client_info": {
+          "package_name": "com.example.songword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60296209458-2hnqg9l1tqd97bi0dmuvhpefir6nlo7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHdm8WYbkW0BzsftL3vHT7u6BFaaAZA3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60296209458-2hnqg9l1tqd97bi0dmuvhpefir6nlo7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
