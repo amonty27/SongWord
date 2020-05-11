@@ -1,5 +1,5 @@
 # SongWord
-SongWord - It's an app that finds songs for the words you search
+SongWord - An app that finds songs for the words you search
 
 
 ## App Details
