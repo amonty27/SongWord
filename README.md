@@ -11,7 +11,7 @@ SongWord - It's an app that finds songs for the words you search
 
 ![signupActivity](/SignupActivity.png)  
 
-3. Users will eneter in a word that they want to search for  
+3. Users will enter in a word that they want to search for  
 
 ![searchActivity](/SearchActivity.png)  
 
